@@ -1,2 +1,2 @@
 it will list files
-ls
+ls -a it will list fails along with hidden file
