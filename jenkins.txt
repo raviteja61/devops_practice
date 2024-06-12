@@ -1,2 +1,4 @@
-jenkins runs 8080 port
+dev
+jenkins works on 8080
 jenkins is a ci/cd tool
+docker
